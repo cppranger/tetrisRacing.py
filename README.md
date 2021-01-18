@@ -1,3 +1,10 @@
 # tetrisRacing.py
-Old-fashioned racing game from old russian tetris now on Python! + Fancy Paint graphics (You should also have pygame)
-(v0.5b - Game is actually playable, but it doesn't look very fancy :()
+Old-fashioned racing game from old russian tetris now on Python! 
+I thought it would be RC, but let it be 1.0 LTS, heh
+
+- new graphics and non-licenced music
+- new gameplay elements
+- menu
+- some music effects
+
+this code is begging for refactoring, but i think, i leave it as it is (or not)
