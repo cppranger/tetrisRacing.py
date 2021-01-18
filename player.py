@@ -2,6 +2,9 @@ import pygame
 
 
 class Player(pygame.sprite.Sprite):
+
+    isLeft = False
+
     def __init__(self, filename, location):
         pygame.sprite.Sprite.__init__(self)
         self.image = pygame.image.load(filename).convert_alpha()
